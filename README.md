@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0018-4sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Meghana4930/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0018-4sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Meghana4930/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Meghana4930/LeetcodeDSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
