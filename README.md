@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Meghana4930/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Meghana4930/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
